@@ -32,9 +32,9 @@ La postulación tendrá una duración de 14 días corridos, considerando como fe
 2. 12 licencias distintas. Se han dispuesto 12 licencias para 12 emprendedores diferentes. 1 licencia para cada Pyme o startup seleccionada. Videsk se reserva el derecho de disminuir o aumentar el número de licencias o seleccionados si así estimará pertinente.
 
 3. Notificación de selección.
-   i. Plazos de notificación: El plazo de notificación de los ganadores será de 7 días hábiles desde el cierre de postulaciones.
-   ii. Medios de notificación Los medios de notificación, mediante los cuales se contactará a los ganadores son: correo electrónico y/o vía telefónica. La información de contacto utilizada será la solicitada en el formulario de postulación.
-   iii. Tiempo máximo de respuesta para aceptar o recibir la licencia de Videsk, en caso de no haber respuesta se podrá seleccionar otro participante. Los seleccionados tendrán un plazo máximo de 72 horas a contar del primer contacto efectuado por Videsk, por las vías establecidas anteriormente en el presente documento y hacer válida la aceptación del producto.
+   - Plazos de notificación: El plazo de notificación de los ganadores será de 7 días hábiles desde el cierre de postulaciones.
+   - Medios de notificación Los medios de notificación, mediante los cuales se contactará a los ganadores son: correo electrónico y/o vía telefónica. La información de contacto utilizada será la solicitada en el formulario de postulación.
+   - Tiempo máximo de respuesta para aceptar o recibir la licencia de Videsk, en caso de no haber respuesta se podrá seleccionar otro participante. Los seleccionados tendrán un plazo máximo de 72 horas a contar del primer contacto efectuado por Videsk, por las vías establecidas anteriormente en el presente documento y hacer válida la aceptación del producto.
 
    
 ## Premio
